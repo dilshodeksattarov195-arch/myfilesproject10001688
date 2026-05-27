@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "invoicefalidate",
+        "uuid": 11746792,
+        "checksum": "1c0dyi"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
